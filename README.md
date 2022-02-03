@@ -1,5 +1,6 @@
 # 💫About Me :
 I'm currently working on a barber website.
+
 I'm currently learning React js
 
 I'm looking for a front-end position!
