@@ -1,9 +1,6 @@
 # 💫About Me :
-I'm currently working on a barber website.
+I am a highly skilled QA Engineer with experience in testing and quality assurance for various software applications. I have a strong understanding of industry best practices and an ability to identify and troubleshoot problems efficiently. I am well-versed in various testing tools and methodologies, and am always seeking to expand my knowledge and skills in the field. In my current role, I am responsible for ensuring the highest level of quality for the products I work on and am dedicated to delivering high-quality results.
 
-I'm currently learning React js
-
-I'm looking for a front-end position!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cellier-jordan/) 
